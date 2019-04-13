@@ -23,3 +23,7 @@
   }
   ```
   __NOTE: After completing the above configuration, you must relaunch VS code! I wasted hours on configuration before I found out that it was correct for the first time.__
+
+## 开发Vue.js项目，打开devtools会导致页面卡顿并且内存占用过高
+- 关闭vuex recording即可解决问题
+  ![no text](Jietu20190413-171356.png)
